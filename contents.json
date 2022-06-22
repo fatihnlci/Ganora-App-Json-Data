@@ -5,47 +5,37 @@
       "name" : "Mobilya takımı 1",
       "anaresim" : "https://img.vivense.com/1920x1280/images/0724454104be48f8aee9d97fcb833d8e.jpg",
       "img" : [
-        {
-          "img1" : "https://img.vivense.com/1920x1280/images/c8c84e4ebe2d4929aa7e89ac265d960e.jpg",
-          "img2" : "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
-        }
+          "https://img.vivense.com/1920x1280/images/c8c84e4ebe2d4929aa7e89ac265d960e.jpg",
+          "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
       ]
     },
     {
       "id" : 2,
       "name" : "Torino Yatak Odası",
-      "anaresim" : "images/urun2/image2.jpg",
+      "anaresim" : "https://img.vivense.com/1920x1280/images/0724454104be48f8aee9d97fcb833d8e.jpg",
       "img" : [
-        {
-          "img1" : "images/urun2/torino2"
-        }
+          "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
+
       ]
     },
     {
       "id" : 3,
       "name" : "Pablo Yatak Odası",
-      "anaresim" : "images/urun3/image3.jpg",
+      "anaresim" : "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg",
       "img" : [
-        {
-          "img1" : "images/urun3/pablo2.jpg",
-          "img2" : "images/urun3/pablo3.jpg",
-          "img3" : "images/urun3/pablo4.jpg",
-          "img4" : "images/urun3/pablo5.jpg"
-        }
+          "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
       ]
     },
     {
       "id" : 4,
       "name" : "Viyana Yatak Odası",
-      "anaresim" : "images/urun3/viyana.jpg",
+      "anaresim" : "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg",
       "img" : [
-        {
-          "img1" : "images/urun4/viyana1.jpg",
-          "img2" : "images/urun4/viyana2.jpg",
-          "img3" : "images/urun4/viyana3.jpg",
-          "img4" : "images/urun4/viyana4.jpg"
-        }
+          "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg",
+          "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg",
+          "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg",
+          "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
       ]
-    }]
+    }
+  ]
 }
-
