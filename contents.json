@@ -3,11 +3,11 @@
     {
       "id" : 1,
       "name" : "Mobilya takımı 1",
-      "anaresim" : "images/urun1/image1.jpg",
+      "anaresim" : "https://img.vivense.com/1920x1280/images/0724454104be48f8aee9d97fcb833d8e.jpg",
       "img" : [
         {
-          "img1" : "images/urun1/palermo2",
-          "img2" : "images/urun1/palermo3"
+          "img1" : "https://img.vivense.com/1920x1280/images/c8c84e4ebe2d4929aa7e89ac265d960e.jpg",
+          "img2" : "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
         }
       ]
     },
@@ -46,7 +46,6 @@
           "img4" : "images/urun4/viyana4.jpg"
         }
       ]
-    }
-  ]
+    }]
 }
 
