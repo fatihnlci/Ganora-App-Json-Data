@@ -3,6 +3,8 @@
     {
       "id" : 1,
       "name" : "ETİ YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/2462298ca9db4ea89f891fcb686a9d22.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/c8c84e4ebe2d4929aa7e89ac265d960e.jpg",
@@ -12,6 +14,8 @@
     {
       "id" : 2,
       "name" : "LORA YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/bfee35cc41d247fa83a27c79da05b43d.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
@@ -21,6 +25,8 @@
     {
       "id" : 3,
       "name" : "İNDİGO YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/ef255b1878ee4de4ab150c872fa6330b.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
@@ -29,6 +35,8 @@
     {
       "id" : 4,
       "name" : "VENEDİK YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "Ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/a63022912bca4f25abd9aef0c670a443.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg",
@@ -40,6 +48,8 @@
     {
       "id" : 5,
       "name" : "PANDORA YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/0b9e2163f26b4caa82f0c5767eb11700.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/c8c84e4ebe2d4929aa7e89ac265d960e.jpg",
@@ -49,6 +59,8 @@
     {
       "id" : 6,
       "name" : "VEGA YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/48c5c147293741e59c79a9a2f849332e.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
@@ -58,6 +70,8 @@
     {
       "id" : 7,
       "name" : "GABON YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/d61360dac682463cafa58dacf1ab275e.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
@@ -66,6 +80,8 @@
     {
       "id" : 8,
       "name" : "LETTA YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/b780a5ed0b7f4a21a9122ec84a344def.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg",
@@ -77,6 +93,8 @@
     {
       "id" : 9,
       "name" : "LUNA YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/f4945b9bebd84db1b49d82d59da8e873.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/c8c84e4ebe2d4929aa7e89ac265d960e.jpg",
@@ -86,6 +104,8 @@
     {
       "id" : 10,
       "name" : "DENVER YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/a4015a69d47845ceb353454e110aaa50.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
@@ -95,6 +115,8 @@
     {
       "id" : 11,
       "name" : "LİFE YATAK ODASI TAKIMI",
+      "fiyat" : 20.000,
+      "ozellikler: "ek ozellikler buraya gelecek",
       "anaresim" : "https://img.vivense.com/1920x1280/images/0725870250c64d459bc3661e4470008a.jpg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg"
@@ -102,8 +124,8 @@
     },
     {
       "id" : 12,
-      "name" : "Viyana Yatak Odası",
-      "anaresim" : "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg",
+      "name" : "ALPİN YATAK ODASI TAKIMI",
+      "anaresim" : "https://img.vivense.com/1920x1280/images/0c9ba66be12b471cb3c8f1ae52a456d0.jpeg",
       "img" : [
           "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg",
           "https://img.vivense.com/1920x1280/images/f35c6b1b11754746a083e43cb970eeeb.jpg",
